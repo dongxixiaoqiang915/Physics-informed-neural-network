@@ -6,7 +6,7 @@ PINN is a cascaded deep neural network incorporated with forward and inverse Tra
 
 ### Human Cheek Cell Dataset
 
-We have released the human cheek cell dataset used in this paper. You can download the full dataset from the below link: https://drive.google.com/drive/u/1/folders/1fEbpYU8KM6xPM1wBr4xCj_kv3kTj8Laa
+We have released the human cheek cell dataset used in this paper. You can download the full dataset from the below link: https://drive.google.com/drive/folders/1EAL00QsoW24JfB2DoxK166SbG9REQJPL?dmr=1&ec=wgc-drive-globalnav-goto
 
 ### Prerequisites
 
