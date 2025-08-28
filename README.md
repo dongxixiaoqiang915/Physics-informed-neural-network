@@ -16,4 +16,4 @@ We have released the human cheek cell dataset used in this paper. You can downlo
 
 ### Official implementation
 
--Install pytorch GPU 1.8.0 or higher version.
+-Install pytorch GPU 1.8.1 or higher version.
